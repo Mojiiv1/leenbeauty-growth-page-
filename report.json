@@ -1,0 +1,56 @@
+[
+  {
+    "width": 320,
+    "no_overflow": true,
+    "photos": 6,
+    "all_photos_loaded": true,
+    "links": 12,
+    "en_fr_toggle": "passed",
+    "js_errors": []
+  },
+  {
+    "width": 375,
+    "no_overflow": true,
+    "photos": 6,
+    "all_photos_loaded": true,
+    "links": 12,
+    "en_fr_toggle": "passed",
+    "js_errors": []
+  },
+  {
+    "width": 390,
+    "no_overflow": true,
+    "photos": 6,
+    "all_photos_loaded": true,
+    "links": 12,
+    "en_fr_toggle": "passed",
+    "js_errors": []
+  },
+  {
+    "width": 768,
+    "no_overflow": true,
+    "photos": 6,
+    "all_photos_loaded": true,
+    "links": 12,
+    "en_fr_toggle": "passed",
+    "js_errors": []
+  },
+  {
+    "width": 1024,
+    "no_overflow": true,
+    "photos": 6,
+    "all_photos_loaded": true,
+    "links": 12,
+    "en_fr_toggle": "passed",
+    "js_errors": []
+  },
+  {
+    "width": 1440,
+    "no_overflow": true,
+    "photos": 6,
+    "all_photos_loaded": true,
+    "links": 12,
+    "en_fr_toggle": "passed",
+    "js_errors": []
+  }
+]
