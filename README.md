@@ -13,13 +13,13 @@ A **single-page NFC/QR landing page** based on the section flow of Ivan Beauty S
 - Phone: +1 613-276-1061
 - Instagram: https://www.instagram.com/leenbeautycenter1/
 - Website: https://leenbeauty.ca/
-- Directions: Google Maps address search for 1340 Hemlock Rd, Unit 109, Ottawa, ON K1K 4E4
+- Directions: direct Google Maps route to the verified Leen Beauty Centre listing at 1340 Hemlock Rd, Unit 109, Ottawa, ON K1K 4E4 (45.4529345, -75.6330151)
 - Powered by: https://www.instagram.com/tap1andgrow/
 
 ## Important before delivering the paid NFC card
 1. **Google Reviews** presently links to the established business listing, **not a verified direct "Write a review" composer**. Replace the Review action URL with the owner's tested Google Business Profile "Ask for reviews / Get more reviews" link. Do not falsely claim a direct review experience until verified on phone.
 2. Obtain the salon owner's permission to publish the supplied logo and portfolio photos.
-3. Confirm directions. The user previously said their Google business pin may be mispositioned. The URL uses an address query, not the questionable dropped pin. It must be tested in Google Maps.
+3. Confirm directions. Both Directions actions use the same listing-specific Google Maps route supplied by the business, including its listing identifier and coordinates.
 4. Visit each destination from a real phone before writing the NFC tag. Program *only once the permanent HTTPS URL is ready*.
 
 ## Free hosting
